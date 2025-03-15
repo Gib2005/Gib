@@ -1,4 +1,7 @@
  function showMessage() {
-    document.getElementById("message").innerText = "This isn't just code, this is my heart speaking. And it says... I miss you, Mikaela!\u2764\uFE0F" 
+    let messageElement = document.getElementById("message");
+    messageElement.innerText = "DI KA CRUSH NG CRUSH MO! \n 💀";
+    messageElement.classList.add("violet-text");
+
  }
 
