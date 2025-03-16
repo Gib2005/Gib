@@ -25,11 +25,11 @@ button {
 button:hover {
       background-color: blanchedalmond;
 }
-
+  
 .violet-text {
      color: rgb(253, 109, 253);
      font-weight: bolder;
-     font-size: 20px;
+     font-size: 30px;
 }
  
 .goldenrod-text {
